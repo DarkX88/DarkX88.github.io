@@ -60,3 +60,6 @@ body {
     height: 30px;
     overflow: hidden;
 }
+#red {
+    color: red;
+}
