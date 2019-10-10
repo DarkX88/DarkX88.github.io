@@ -1,0 +1,62 @@
+.ma-classe1 {
+    font-family: 'Mansalva', cursive;
+    font-size: 60px;
+    text-align: center;
+    border-bottom: 2px solid greenyellow;
+    border-top: 2px solid black;
+}
+.ma-classe1:hover {
+    
+}
+.ma-classe2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    text-align: right
+}
+.ma-classe3 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    line-height: 1.5; 
+}
+.ma-classe4 {
+    text-transform: capitalize;
+}
+ul {
+    list-style-type: none;
+}
+ol {
+    list-style-type: lower-roman;
+}
+img {
+    border-radius : 20px 20px 0px 0px;
+}
+#paragraphefinale {
+    background-image: url(https://www.chassepassion.net/wp-content/uploads/2017/12/chacal-dore.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 40%;
+    color: blue;
+}
+p {
+    width: 40%;
+    margin-bottom: 40px;
+}
+h1 {
+    margin: 50px 0;
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+body {
+    line-height: 1.5;
+    border: 2px solid black;
+}
+#final {
+    background-color: orangered;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    height: 30px;
+    overflow: hidden;
+}
